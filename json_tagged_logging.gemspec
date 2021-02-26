@@ -1,7 +1,7 @@
 require_relative 'lib/json_tagged_logging/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "json_tagged_logger"
+  spec.name          = "json_tagged_logging"
   spec.version       = JsonTaggedLogging::VERSION
   spec.authors       = ["Lee Hambley"]
   spec.email         = ["lee.hambley@gmail.com"]
