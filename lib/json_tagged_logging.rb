@@ -1,5 +1,3 @@
-require "json_tagged_logging/version"
-
 # Does not require activesupport/etc, ensure you use this in an ActiveSupport
 # environment such as running rails app.
 
